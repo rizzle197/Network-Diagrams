@@ -112,7 +112,7 @@
         <mxCell id="oo24rDs93ae2xCaj8f2O-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Finance Workstations&lt;div&gt;DHCP IP addresses&lt;/div&gt;&lt;div&gt;172.16.40.0/24&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="290" x="110" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="oo24rDs93ae2xCaj8f2O-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Printer&lt;div&gt;DHCP&lt;/div&gt;&lt;div&gt;172.16.40.0/24&lt;/div&gt;" vertex="1">
+        <mxCell id="oo24rDs93ae2xCaj8f2O-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Printer&lt;div&gt;Static IP&lt;/div&gt;&lt;div&gt;172.16.40.14&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="202.8" y="270" as="geometry" />
         </mxCell>
         <mxCell id="oo24rDs93ae2xCaj8f2O-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1st Floor Wi-Fi AP&lt;div&gt;Static IP&lt;/div&gt;&lt;div&gt;172.16.100.4&lt;/div&gt;" vertex="1">
